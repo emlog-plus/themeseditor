@@ -28,8 +28,8 @@
 插件设置完成
 </div>
 <?php endif;?>
-
-
+<div class="form-group text-center saveStatus" style="color:red">
+</div>
 <div class="row">
 <div class="col-lg-12">
 <div class="panel panel-default card-view">
